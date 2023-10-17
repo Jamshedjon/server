@@ -1,0 +1,153 @@
+{
+  "uzbek_taomlari": [
+    {
+      "id": 1,
+      "title": "Osh",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "image": "https://halaldastarkhan.com/wp-content/uploads/2020/06/Website-214.jpg",
+      "method": "Birinchi bo'lib qozonga yog'ni quyamiz, so'ngra piyozni solamiz...",
+      "cookingTime": "45 minut"
+    },
+    {
+      "id": 2,
+      "title": "Manti",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "image": "https://petersfoodadventures.com/wp-content/uploads/2016/05/Manti-2-1024x768.png",
+      "method": "Go'shti, piyozni yiqaymiz va tozalaymiz, so'ngra yirik un bilan qalin qovoqni tayyorlaymiz...",
+      "cookingTime": "1 soat"
+    },
+    {
+      "id": 3,
+      "title": "Lagmon",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "image": "https://t3.ftcdn.net/jpg/02/98/86/08/360_F_298860809_U6qAwVchYSmjddalk2Hei2BuAWeqwmTH.jpg",
+      "method": "Go'shti sochdan yong'oq xilma xil qirib, piyozni solaymiz, so'ngra qalin unli qovoqni tayyorlaymiz...",
+      "cookingTime": "1 soat 30 minut"
+    },
+    {
+      "id": 4,
+      "title": "Mastava",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "image": "https://i2.wp.com/rusuz.com/wp-content/uploads/2017/09/Mastava-scaled.jpg?fit=1200%2C800&ssl=1",
+      "method": "Go'shtni qaynatab olamiz, so'ngra piyoz va kartoshkalarni solaymiz...",
+      "cookingTime": "2 soat"
+    },
+    {
+      "id": 5,
+      "title": "Shashlik",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "image": "https://www.shanazrafiq.com/wp-content/uploads/2022/05/Chicken-Seekh-Kabab.jpg",
+      "method": "Go'shtni qaynatab olamiz, so'ngra piyoz bilan birlashtiramiz va qatiqda terimiz...",
+      "cookingTime": "1 soat"
+    },
+    {
+      "id": 6,
+      "title": "Norin",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "image": "https://www.centralasia-travel.com/uploads/gallery/1226/naryn-01.jpg",
+      "method": "Go'shti sochdan yong'oq xilma xil qirib, piyozni solaymiz, so'ngra sabzi bilan birlashtiramiz...",
+      "cookingTime": "1 soat 30 minut"
+    },
+    {
+      "id": 7,
+      "title": "Somsa",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "image": "https://i0.wp.com/thefoodhog.com/wp-content/uploads/2021/01/uzbek-samsa.jpg",
+      "method": "Go'shti yong'oq xilma xil qirib, piyozni solaymiz, so'ngra unli qovoqni tayyorlaymiz...",
+      "cookingTime": "1 soat"
+    },
+    {
+      "id": 8,
+      "title": "Shurva",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "image": "https://thumbs.dreamstime.com/z/kovurma-shorva-traditional-uzbek-soup-shurpa-37279493.jpg",
+      "method": "Go'shtni qaynatab olamiz, so'ngra piyoz bilan birlashtiramiz va kartoshkalarni solaymiz...",
+      "cookingTime": "2 soat"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Veggie Stew",
+      "ingredients": ["1 Carrot", "1 Leek", "200g Tofu", "300ml Veg stock"],
+      "image": "https://theveglife.com/wp-content/uploads/2014/11/Vegetable-Stew-SHARPER.jpg",
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Veggie Pizza",
+      "ingredients": [
+        "1 Base",
+        "Tomata pasata",
+        "1 Green pepper",
+        "100g Mushrooms"
+      ],
+      "image": "https://www.killingthyme.net/wp-content/uploads/2020/09/veggie-deluxe-pizza-5-500x500.jpg",
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Greek Salad",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "image": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2018/08/Greek-Salad-main.jpg",
+      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
+      "cookingTime": "35 minutes"
+    }
+  ]
+}
